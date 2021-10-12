@@ -37,11 +37,6 @@ I’m Maneet, a frontend developer
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneet-k&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
-  </a>
-</p>
 
 
 <div align="center">
@@ -52,7 +47,6 @@ I’m Maneet, a frontend developer
 
 #
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
 
 
 -----
