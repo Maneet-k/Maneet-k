@@ -1,4 +1,6 @@
 Hi 👋
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Maneet-k/Maneet-k/main/ManeetKhaira369.gif" width="400"/>
+
 I’m Maneet, a frontend developer
 - 🌱 I’m currently learning WebDev tools of JS
 - 💞️ I’m looking to collaborate on in Hackathons and projects. If you like my profile, feel free to get in touch with me!
