@@ -1,4 +1,7 @@
 Hi 👋
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Maneet-k/Maneet-k/main/ManeetKhaira369.gif" width="400"/>
+
+
 I’m Maneet, a frontend developer
 - 🌱 I’m currently learning WebDev tools of JS
 - 💞️ I’m looking to collaborate on in Hackathons and projects. If you like my profile, feel free to get in touch with me!
@@ -44,7 +47,18 @@ I’m Maneet, a frontend developer
 ### Connect with me:
 
 <a href="mailto:manjitkaurk797@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="manjitkaurk797@gmail.com" height="50" width="50" /> [Email](mailto:manjitkaurk797@gmail.com)
+<div align="center">
 
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+#
+
+-----
+**Credits**: [JayantGoel001](https://github.com/JayantGoel001)
+
+**Last Edited on**: 24/06/2021
 <!---
 Maneet-k/Maneet-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
