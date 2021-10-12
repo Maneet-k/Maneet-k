@@ -7,11 +7,8 @@ I’m Maneet, a frontend developer
 - 💞️ I’m looking to collaborate on in Hackathons and projects. If you like my profile, feel free to get in touch with me!
 - 📫 How to reach me : You can mail me on my primary mail id
 
-#
-
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
-
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
@@ -40,7 +37,7 @@ I’m Maneet, a frontend developer
 
 <p align="center">
   <a href="https://github.com/Maneet-k">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maneet-k&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="185px" src="https://github-readme-stats.vercel.app/api?username=Maneet-k&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/Maneet-k">
     <img align="center" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneet-k&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
@@ -48,6 +45,7 @@ I’m Maneet, a frontend developer
 </p>
 
 ### Connect with me:
+
 <a href="mailto:manjitkaurk797@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="manjitkaurk797@gmail.com" height="50" width="50" /> [Email](mailto:manjitkaurk797@gmail.com)
 <div align="center">
 
