@@ -37,6 +37,28 @@ I’m Maneet, a frontend developer
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneet-k&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
+<p align="center">
+  <a href="https://archiveprogram.github.com/">
+    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
+  </a>
+</p>
+
+
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+#
+
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+
+
+-----
+**Credits**: [Maneet-k](https://github.com/Maneet-k)
+
+**Last Edited on**: 12/10/2021
 <!---
 Maneet-k/Maneet-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
