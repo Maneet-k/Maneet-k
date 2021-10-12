@@ -1,6 +1,4 @@
 Hi 👋
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Maneet-k/Maneet-k/main/ManeetKhaira369.gif" width="400"/>
-
 I’m Maneet, a frontend developer
 - 🌱 I’m currently learning WebDev tools of JS
 - 💞️ I’m looking to collaborate on in Hackathons and projects. If you like my profile, feel free to get in touch with me!
@@ -34,25 +32,19 @@ I’m Maneet, a frontend developer
 
 ### Github Stats:
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneet-k&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-</a>
+<p align="center">
+  <a href="https://github.com/Maneet-k">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maneet-k&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/Maneet-k">
+    <img align="center" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneet-k&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
 
+### Connect with me:
 
-<div align="center">
+<a href="mailto:manjitkaurk797@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="manjitkaurk797@gmail.com" height="50" width="50" /> [Email](mailto:manjitkaurk797@gmail.com)
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
-
-#
-
-
-
------
-**Credits**: [Maneet-k](https://github.com/Maneet-k)
-
-**Last Edited on**: 12/10/2021
 <!---
 Maneet-k/Maneet-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
