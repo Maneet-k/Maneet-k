@@ -50,15 +50,14 @@ I’m Maneet, a frontend developer
 <div align="center">
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
 </div>
 
 #
 
 -----
-**Credits**: [JayantGoel001](https://github.com/JayantGoel001)
+**Credits**: [Maneet-k](https://github.com/Maneet-k)
 
-**Last Edited on**: 24/06/2021
+**Last Edited on**: 12/10/2021
 <!---
 Maneet-k/Maneet-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
