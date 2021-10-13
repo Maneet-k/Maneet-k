@@ -1,4 +1,5 @@
 Hi 👋
+<div>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Maneet-k/Maneet-k/main/ManeetKhaira369.gif" width="400"/>
 
 
@@ -6,7 +7,8 @@ I’m Maneet, a frontend developer
 - 🌱 I’m currently learning WebDev tools of JS
 - 💞️ I’m looking to collaborate on in Hackathons and projects. If you like my profile, feel free to get in touch with me!
 - 📫 How to reach me : You can mail me on my primary mail id
-
+</div>
+<div>
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
@@ -30,9 +32,8 @@ I’m Maneet, a frontend developer
 <code><img height="40" width="40" alt="nodeJs" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"></code>
 <code><img height="40" width="40" alt="VS Code" src="https://icongr.am/devicon/visualstudio-plain.svg?size=31&color=currentColor"></code>
 <br/>
-
+</div>
 #
-
 ### Github Stats:
 
 <p align="center">
