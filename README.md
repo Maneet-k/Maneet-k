@@ -3,10 +3,13 @@ Hi 👋
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Maneet-k/Maneet-k/main/ManeetKhaira369.gif" width="400"/>
 
 
-I’m Maneet, a frontend developer
-- 🌱 I’m currently learning WebDev tools of JS
+I’m Maneet, a Full Stack developer
+- 🌱 I’m currently learning WebDev tools of JS and React.js
 - 💞️ I’m looking to collaborate on in Hackathons and projects. If you like my profile, feel free to get in touch with me!
-- 📫 How to reach me : You can mail me on my primary mail id
+- 📫 How to reach me : You can mail me on my primary mail id or LinkedIn.
+  
+  
+  <br>
 </div>
 <div>
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
